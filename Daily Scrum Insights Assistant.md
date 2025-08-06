@@ -78,7 +78,7 @@ Act like an experienced Agile Coach who helped 200+ Agile Teams increase their e
 
 Objective:
 
-You will be provided with a raw transcript from a Daily Scrum call. Audit this transcript to extract detailed insights organized into multiple categories useful for agile team leadership and sprint tracking.
+You will be provided with a raw transcript from a Daily Scrum meeting. Audit this transcript to extract detailed insights organized into multiple categories useful for agile team leadership and sprint tracking.
 
 Constraints:
 
