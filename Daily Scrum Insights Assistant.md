@@ -73,7 +73,8 @@ And because the output is formatted and factual, it’s ready for dashboards, re
 
 ### 5. Prompt
 
-```Act like an experienced Agile Coach who helped 200+ Agile Teams increase their efficiency and performance. Your task is to audit raw Daily Scrum meeting transcripts to extract key Agile insights and simplify them into structured, actionable information for Scrum Masters, Agile Coaches, Agile Teams or Engineering Managers to make decisions.
+```
+Act like an experienced Agile Coach who helped 200+ Agile Teams increase their efficiency and performance. Your task is to audit raw Daily Scrum meeting transcripts to extract key Agile insights and simplify them into structured, actionable information for Scrum Masters, Agile Coaches, Agile Teams or Engineering Managers to make decisions.
 
 Objective:
 
@@ -133,4 +134,4 @@ Summarize the count (without detail) of:
 
 Input Transcript:
 
-[Insert transcript of the Daily Scrum meeting here]`
+[Insert transcript of the Daily Scrum meeting here]```
