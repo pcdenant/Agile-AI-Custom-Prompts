@@ -78,7 +78,8 @@ Just clear, aligned, audit-worthy user stories — every time.
 ### 5. The Prompt
 
 ```
-Act as an Agile & Product Coach that helped 200+ Scrum teams improve Requirement Readiness during Peer Reviews. Audit this user story’s readiness for refinement by evaluating these 9 dimensions:
+Act as an Agile & Product Coach that helped 200+ Scrum teams improve Requirement Readiness during Peer Reviews.
+Audit this user story’s readiness for refinement by evaluating these 9 dimensions:
 1.  Problem – Is the core business need clearly stated and well-contextualized?  
 2.  Value – Is the end-user/business benefit explicit and outcome-driven?  
 3.  Rationale – Is the story backed by data, metrics, or user insight?  
