@@ -11,11 +11,8 @@ The Requirement Readiness Audit prompt brings a radical shift in how Agile teams
 This prompt simulates an Agile & Product Coach who’s battle-tested with 200+ Scrum teams. It gives you a precision tool to audit a user story’s readiness for refinement across 9 critical dimensions that real-world teams struggle with:
 
 -   Is there a real problem behind the story?
-    
 -   Is value clearly articulated?
-    
 -   Does the scope create alignment — or chaos?
-    
 -   Are we refining a solution too early?  
       
     
@@ -29,11 +26,8 @@ It doesn’t just assess. It flags, explains, and even gives you a Readiness Sco
 This is more than a checklist. It’s a behavior change mechanism that:
 
 -   Builds shared standards across teams without bureaucracy
-    
 -   Catches costly assumptions before they hit development
-    
 -   Raises the team’s bar for critical thinking and story discipline
-    
 -   Makes peer reviews razor-sharp instead of vague opinion fests  
       
     
@@ -49,13 +43,9 @@ If you're tired of hearing "this story wasn’t ready" after it gets sized, you 
 This tool was made for:
 
 -   Scrum Masters — who want to drive better conversations during refinement
-    
 -   Product Owners — who want high-signal feedback on the quality of their backlog
-    
 -   Agile Coaches — who need a scalable way to level-up requirement hygiene across squads
-    
 -   Tech Leads & QA — who want to eliminate ambiguity before it becomes technical debt
-    
 -   Teams — who want to stop wasting refinement on stories that don’t belong there yet  
       
     
@@ -71,7 +61,6 @@ Just clear, aligned, audit-worthy user stories — every time.
 ### 4.How to use it:
 
 -   Click on Atlassian Intelligence button into User Story Description Field
-    
 -   Paste the prompt into the custom prompt area
     
 
@@ -94,3 +83,4 @@ Audit this user story’s readiness for refinement by evaluating these 9 dimensi
 Then, assign a Readiness Score (1–10).  
 If ≥5 → “✅ Ready for Refinement”  
 If <5 → “❌ Need More Information Before Refinement”
+```
