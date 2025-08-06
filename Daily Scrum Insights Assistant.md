@@ -70,7 +70,7 @@ Step 1 — Insight Extraction
 Organize findings in a table under these categories:
 A. Blockers
 What impediments were mentioned?
-Mark each as: Recurring or One-Off.
+Mark each as: Recurring or One-Time.
 B. Help & Dependencies
 List all help requests.
 Tag as Internal (within team) or External.
