@@ -13,12 +13,9 @@ Instead of letting Daily Scrum transcripts sit idle (or worse, vanish), this pro
 
 It doesn't just summarize — it structures team behavior into decision-grade intelligence:
 
--   Blockers, help requests, and scope creep? Extracted.
-    
--   Achievements and progress toward the Sprint Goal? Tracked.
-    
--   Risks? Flagged.
-    
+-   Blockers, help requests, and scope creep? Extracted.  
+-   Achievements and progress toward the Sprint Goal? Tracked.  
+-   Risks? Flagged.  
 -   Metrics? Counted.  
       
     
@@ -31,13 +28,10 @@ This is AI-powered sensemaking, purpose-built for Agile execution.
 
 This tool flips the script on the Daily Scrum:
 
--   From talking status to surfacing system health
-    
--   From note-taking to evidence-based intervention
-    
+-   From talking status to surfacing system health  
+-   From note-taking to evidence-based intervention  
 -   From manual analysis to instant visibility across squads  
-      
-    
+          
 
 No more guesswork. No more buried blockers. Just clarity.
 
@@ -48,13 +42,9 @@ And because the output is formatted and factual, it’s ready for dashboards, re
 ### 3. Who Should Be Using This
 
 -   Scrum Masters — who want to act on real team signals, not vague impressions.
-    
 -   Agile Coaches — who need fast diagnosis across multiple teams.
-    
 -   Engineering Managers — who want visibility without micromanagement.
-    
 -   Product Owners — who want to react to shifting priorities in real-time.
-    
 -   Agile Teams — who want to see their blockers, wins, and risks clearly reflected back to them.
     
 
@@ -63,9 +53,7 @@ And because the output is formatted and factual, it’s ready for dashboards, re
 ### 4. How to use it
 
 -   Extract the raw transcript of a Daily Scrum meeting (text format)
-    
 -   Use your favorite GPT with this prompt.
-    
 -   Provide raw transcript as input.
     
 
@@ -74,64 +62,40 @@ And because the output is formatted and factual, it’s ready for dashboards, re
 ### 5. Prompt
 
 ```
-Act like an experienced Agile Coach who helped 200+ Agile Teams increase their efficiency and performance. Your task is to audit raw Daily Scrum meeting transcripts to extract key Agile insights and simplify them into structured, actionable information for Scrum Masters, Agile Coaches, Agile Teams or Engineering Managers to make decisions.
+Act as an Agile Coach with experience coaching 200+ Agile teams.
+Audit the following Daily Scrum transcript.
+Extract factual, structured, and actionable insights for Agile leaders—no assumptions, no fluff.
 
-Objective:
+Step 1 — Insight Extraction
+Organize findings in a table under these categories:
+A. Blockers
+What impediments were mentioned?
+Mark each as: Recurring or One-Off.
+B. Help & Dependencies
+List all help requests.
+Tag as Internal (within team) or External.
+Status: Resolved / Unresolved.
+C. Scope Changes / Unforeseen Work
+Identify any bugs, incidents, emergencies, or unplanned work.
+Label each as Recurring or One-Time.
+D. Achievements
+What tasks were completed?
+Any praise or shout-outs?
 
-You will be provided with a raw transcript from a Daily Scrum meeting. Audit this transcript to extract detailed insights organized into multiple categories useful for agile team leadership and sprint tracking.
+Step 2 — Sprint Goal Confidence Check
+Is the team confident about the Sprint Goal?
+Note any concerns, risks, or mitigation strategies mentioned.
 
-Constraints:
+Step 3 — Quantitative Summary
+Provide simple counts:
+# Blockers
+# Help Requests
+# Scope Changes
 
-Ensure the language is factual and derived directly from the transcript, avoiding assumptions. Zero Fluff. Use formatting that simplify the output for stakeholders. Use bullet points, tables, and clear language that would be ready to paste into an Agile report or dashboard.
+Format Guidelines:
+Use clear labels, bullet points, and tables
+Content must be fact-based (no speculation)
 
-Follow the steps below:
-
-Step 1 — Audit the transcript and extract detailed, factual information. Organize it in a structured table under the following sections:
-
-a. Impediments or Blockers:
-
-- Identify all blockers or impediments mentioned by participants.
-
-- For each one, specify whether it is a recurrent issue or a one-off event.
-
-b. Requests for Help or Dependencies:
-
-- List all requests for help mentioned.
-
-- For each, specify whether it is directed internally (within the team) or externally (outside the team).
-
-- Indicate if each request has been answered/resolved or is still pending.
-
-c. Scope Changes and Unforeseen Events:
-
-- List any changes to originally planned work, including incidents, emergencies, bugs, unexpected priorities, etc.
-
-- For each, describe its nature and whether it’s a recurring or one-time event.
-
-d. Achievements:
-
-- List all completed tasks mentioned during the call.
-
-- Include any mentions of praise, congratulations, or public acknowledgements.
-
-Step 2 — Evaluate Progress Towards the Sprint Goal:
-
-- Identify any expressed confidence or concerns about achieving the Sprint Goal.
-
-- Highlight specific blockers, scope changes, or uncertainties affecting progress.
-
-- Indicate any countermeasures or strategies the team has mentioned to address risks to the sprint objective.
-
-Step 3 — Provide a Numerical Summary:
-
-Summarize the count (without detail) of:
-
-• Total Blockers
-
-• Total Help Requests
-
-• Total Scope Changes
-
-Input Transcript:
-
-[Insert transcript of the Daily Scrum meeting here]```
+Transcript:
+[Insert raw transcript here]
+```
