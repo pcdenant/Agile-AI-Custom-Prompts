@@ -6,7 +6,7 @@ The Requirement Readiness Audit prompt brings a radical shift in how Agile teams
 
 ----------
 
-### 1. What It Actually Does — and Why It Changes the Game
+### 1. What It Actually Does
 
 This prompt simulates an Agile & Product Coach who’s battle-tested with 200+ Scrum teams. It gives you a precision tool to audit a user story’s readiness for refinement across 9 critical dimensions that real-world teams struggle with:
 
