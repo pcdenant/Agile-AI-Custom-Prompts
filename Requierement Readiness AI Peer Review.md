@@ -83,4 +83,5 @@ Audit this user story’s readiness for refinement by evaluating these 9 dimensi
 Then, assign a Readiness Score (1–10).  
 If ≥5 → “✅ Ready for Refinement”  
 If <5 → “❌ Need More Information Before Refinement”
+Create a table with Unclear Items and its relevant examples to fix them 
 ```
