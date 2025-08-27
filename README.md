@@ -4,6 +4,7 @@ GPT prompts to help Agile Teams work smarter not harder.
 ## Why AI Does Not Replace Humans (Scrum Masters, Agile Coaches, Product Owners)
 
 This repository provides prompts that automate repetitive and cognitive tasks (audit, synthesis, structuring).
+
 Their purpose is to free time, not replace any role.
 
 - Automation scope: meeting synthesis, story readiness checks, sprint goal audits.  
